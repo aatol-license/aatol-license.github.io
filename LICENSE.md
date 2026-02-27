@@ -1,6 +1,5 @@
-# aatol-license.github.io
 # ANTI-AI TRAINING OPEN LICENSE
-
+IMPORTANT DISCLAIMER: This license (AATOL - Anti-AI Training Open License) is an independent software license and is not in any way affiliated, associated, authorized, or endorsed by the UK Civil Aviation Authority (CAA) or the Air Travel Organisers' Licensing (ATOL) scheme. The name "AATOL" is an acronym referring to software data protection and has no connection to travel protection services or civil aviation regulations.
 ## AATOL — Version 1.0
 
 *Based on the MIT License*
